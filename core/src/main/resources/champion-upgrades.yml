@@ -5,7 +5,7 @@
 #|-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-|#
 
 champions:
-  # The default champion type. Requires a restart to apply.
+  # The default champion type. Requires a restart to apply. test
   default: 'zombie'
   zombie:
     name: 'Equipment'
